@@ -8,7 +8,6 @@
     "gitTag": true
   },
   "confirm": false,
-  "publishTag": "latest",
-  "prePublishScript": "gulp test-server",
-  "postPublishScript": "gulp docker-publish"
+  "publishTag": "latest"
+  
 }

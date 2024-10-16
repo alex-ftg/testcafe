@@ -1,0 +1,1 @@
+module.exports = {"hostname":"123.456.789","port1":1234,"port2":5678,"src":"path1/folder","browser":"edge"}
