@@ -1,5 +1,5 @@
 {
-  "name": "testcafe",
+  "name": "testcafe-ftg",
   "description": "Automated browser testing for the modern web development stack.",
   "license": "MIT",
   "version": "3.6.2",
@@ -16,7 +16,7 @@
   "homepage": "https://testcafe.io/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevExpress/testcafe.git"
+    "url": "git+https://github.com/alex-ftg/testcafe.git"
   },
   "engines": {
     "node": ">=16.0.0"
